@@ -1,6 +1,6 @@
-# New Repo
+# Setup New Repo
 
-To create a new repository "new_repo":
+To setup a new repository "new_repo":
 
 ```console
 echo "# new_repo" >> README.md
